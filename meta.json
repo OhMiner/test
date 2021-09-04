@@ -1,0 +1,8 @@
+{
+  "name": "AntiCryptoPunks",
+  "description": "Meet your antimatters, CryptoPunks.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPRUt8MuBnwcdtKx6EM7LzYjBspcv5QRBP2VUoqLzz27a",
+  "external_link": "https://opensea.io/collection/anticryptopunks",
+  "seller_fee_basis_points": 500, # Indicates a 1% seller fee.
+  "fee_recipient": "0x9f97af7319ad3c40d3e6ed2176f32fed7dadb7fa" # Where seller fees will be paid to.
+}
